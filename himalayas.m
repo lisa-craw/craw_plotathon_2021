@@ -1,8 +1,5 @@
 % Script for plotting himalayas data for the DataTas Plot-a-thon!
 
-%hiker symbol is from IAN open source symbol database https://ian.umces.edu/media-library
-
-
 %% IMPORT DATA as tables {{{
 members = readtable('members.csv', 'ReadVariableNames', 1);
 expeditions = readtable('expeditions.csv', 'ReadVariableNames', 1);

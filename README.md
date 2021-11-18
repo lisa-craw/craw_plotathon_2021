@@ -1,7 +1,7 @@
 # craw_plotathon_2021
-entry for the 20212 DataTas plot-a-thon
+My entry for the 2021 DataTas plot-a-thon!
 
-My final figure is "himalayas.gif".
+The final figure is "himalayas.gif". This is an animation progressing through time, and showing first ascents of each Himalayan peak in the "death zone" (peaks above 8000m). Top left, a map of all peak locations. Peaks turn green when they have been climbed. Top right, a plot of total death zone peaks which have been climbed, over time. Bottom, a stylised "cross-section" with a triangle for each peak. When the peak has been climbed, a flag appears to signify which nationality the climbers were.
 
 Also included here is everything needed to recreate the plot (I hope!):
 - himalayas.m, plotting script written for MATLAB R2018b Update 7 (9.5.0.1298439), with the mapping toolbox installed
